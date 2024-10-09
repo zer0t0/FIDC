@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\program\\C\\FIDC(Lower_level_Dll_Injection)\\FIDC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB22ABD-86A0-4A43-B7E2-ACD742AFB6AE}|FIDC\\FIDC.vcxproj|D:\\program\\C\\FIDC(Lower_level_Dll_Injection)\\FIDC\\FIDC\\FIDC.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAB22ABD-86A0-4A43-B7E2-ACD742AFB6AE}|FIDC\\FIDC.vcxproj|solutionrelative:FIDC\\FIDC.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FIDC.c",
+              "DocumentMoniker": "D:\\program\\C\\FIDC(Lower_level_Dll_Injection)\\FIDC\\FIDC\\FIDC.c",
+              "RelativeDocumentMoniker": "FIDC\\FIDC.c",
+              "ToolTip": "D:\\program\\C\\FIDC(Lower_level_Dll_Injection)\\FIDC\\FIDC\\FIDC.c",
+              "RelativeToolTip": "FIDC\\FIDC.c",
+              "ViewState": "AQIAAEwCAAAAAAAAAAAiwG4CAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-09T02:25:33.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

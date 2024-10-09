@@ -1,0 +1,16 @@
+﻿  FIDC.c
+D:\program\C\FIDC(Lower_level_Dll_Injection)\FIDC\FIDC\FIDC.c(23,53): warning C4047: “==”:“int”与“void *”的间接级别不同
+D:\program\C\FIDC(Lower_level_Dll_Injection)\FIDC\FIDC\FIDC.c(25,63): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+D:\program\C\FIDC(Lower_level_Dll_Injection)\FIDC\FIDC\FIDC.c(25,63): warning C4024: “MessageBoxW”: 形参和实参 4 的类型不同
+D:\program\C\FIDC(Lower_level_Dll_Injection)\FIDC\FIDC\FIDC.c(14,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\program\C\FIDC(Lower_level_Dll_Injection)\FIDC\FIDC\FIDC.c(371,11): warning C4047: “==”:“BOOL”与“void *”的间接级别不同
+D:\program\C\FIDC(Lower_level_Dll_Injection)\FIDC\FIDC\FIDC.c(572,9): warning C4476: "printf": 格式说明符中的类型字段字符“=”未知
+D:\program\C\FIDC(Lower_level_Dll_Injection)\FIDC\FIDC\FIDC.c(549,8): warning C4101: “i”: 未引用的局部变量
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+D:\program\C\FIDC(Lower_level_Dll_Injection)\FIDC\FIDC\FIDC.c(37): warning C4172: 返回局部变量或临时变量的地址: szwBuffer
+D:\program\C\FIDC(Lower_level_Dll_Injection)\FIDC\FIDC\FIDC.c(98): warning C4172: 返回局部变量或临时变量的地址: iPid
+D:\program\C\FIDC(Lower_level_Dll_Injection)\FIDC\FIDC\FIDC.c(26): warning C4172: 返回局部变量或临时变量的地址: szwBuffer
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  FIDC.vcxproj -> D:\program\C\FIDC(Lower_level_Dll_Injection)\FIDC\x64\Release\FIDC.exe
